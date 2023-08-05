@@ -10,5 +10,5 @@ In general terms, the main steps for this  can be divided into the following ste
 5) Set up the LLM model
 6) Creation of the global chain
 
- You can check the code in order to see in more details the process. In case you want to take a look how it works you can find in the following link: ç
+ You can check the code in order to see in more details the process. In case you want to take a look how it works you can find in the following link: 
  
