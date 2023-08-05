@@ -1,0 +1,10 @@
+langchain=0.0.248=pypi_0
+langchainplus-sdk=0.0.20=pypi_0
+langcodes=3.3.0=pypi_0
+langsmith=0.0.14=pypi_0
+openai=0.27.8=pypi_0
+openai-whisper=20230314=pypi_0
+openapi-schema-pydantic=1.2.4=pypi_0
+streamlit=1.25.0=pypi_0
+streamlit-lottie=0.0.5=pypi_0
+sympy=1.12=pypi_0
