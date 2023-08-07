@@ -11,4 +11,5 @@ In general terms, the main steps for this  can be divided into the following ste
 6) Creation of the global chain
 
  You can check the code in order to see in more details the process. In case you want to take a look how it works you can find in the following link: 
- 
+
+ https://wjmdqv5uk2lxvg243ssrjr.streamlit.app/
