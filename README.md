@@ -13,3 +13,8 @@ In general terms, the main steps for this  can be divided into the following ste
  You can check the code in order to see in more details the process. In case you want to take a look how it works you can find in the following link: 
 
  https://wjmdqv5uk2lxvg243ssrjr.streamlit.app/
+
+
+<img width="1436" alt="Captura de Pantalla 2023-08-07 a la(s) 10 37 06 a m" src="https://github.com/orlandombaa/Retrival-augmentation-generation--RAE-/assets/48104481/05f762c9-872a-4a22-bce4-9f2824a3cdc6">
+
+
